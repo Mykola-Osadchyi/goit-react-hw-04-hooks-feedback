@@ -1,0 +1,8 @@
+.task {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  padding-left: 15px;
+  width: 500px;
+  background-color: aliceblue;
+}
